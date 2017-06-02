@@ -1,0 +1,241 @@
+{
+	"llc": {
+		"company" : "Ladies Learning Code", 
+		"reporting_year" : "2016", 
+		"blocks" : [
+			{
+				"index" : "01", 
+				"title" : "A Note from the Team",
+				"graphs" : [
+					{
+						"chartType" : "text", 
+						"title" : null,
+						"content" : "<p>Creating this report to share with you, our community, has been a process filled with nostalgia and pride as we reflect on how far Ladies Learning Code has come in just five years.</p><p>What started as the passion project of four young women in Toronto has evolved into a national not-for-profit organization at the forefront of the digital literacy movement in Canada.</p><p>While we are certainly proud of the progress that we have made in getting digital literacy and 21st century skills education onto the agendas of industry, government, and school boards, it is the individual stories of impact from our community that most effectively illustrate the significance of our work.</p><p>From the woman who completely reinvented her career through our programs, to the young girl who created a game for her visually impaired sister when there were none, to the teen who aced her AP CS class and is now on her way to university to major in computer science -- this report is a celebration of the lives that we have changed from coast to coast.</p><p>As we trace our progress and impact over the years, one thing is overwhelmingly clear: none of it would have been possible without the incredible support of our community. From our sponsors to our learners to the thousands of volunteers who teach in communities across Canada -- Ladies Learning Code is, and always will be, a community-driven organization.</p><p>Together we have come so far, but there is much work yet to be done. This next year will be another big one for Ladies Learning Code, and we will need our community more than ever.</p><p>Digital literacy for women and youth is rapidly gaining attention in the tech community, in education circles, and even on public agendas. Now is the time to capitalize on this incredible groundswell of support for our shared vision and make lasting change.</p>"
+					}
+				]
+			},
+			{
+				"index" : "02", 
+				"title" : "Our Reach", 
+				"graphs" : [
+					{
+						"title" : "Early on in our work, we realized that the need for our programs went far beyond the boundaries of Toronto.", 
+						"chartType" : "map",
+						"mapType" : "CA",
+						"description" : "Today, Ladies Learning Code operates in 29 cities and counting — at least one in every single province — each run by a local community leader, our Chapter Lead.", 
+						"graphTitle" : "Our Presence Accross Canada", 
+						"colors": ["#FAF1D2","#FAE194","#E8B511","#997500"],
+						"baseColor": "#F8F1C6",
+						"data" : [
+							{
+								"chapter" : "Toronto", 
+								"start_date" : "2011-08-01", 
+								"province" : "Ontario"
+							}, 
+							{
+								"chapter" : "Vancouver", 
+								"start_date" : "2012-08-01"
+							}, 
+							{
+								"chapter" : "Ottawa", 
+								"start_date" : "2012-09-01", 
+								"province" : "Ontario"
+							}, 
+							{
+								"chapter" : "Halifax", 
+								"start_date" : "2013-04-01", 
+								"province" : "Nova Scotia"
+							}, 
+							{
+								"chapter" : "London", 
+								"start_date" : "2013-05-01", 
+								"province" : "Ontario"
+							}, 
+							{
+								"chapter" : "Calgary", 
+								"start_date" : "2013-05-01", 
+								"province" : "Alberta"
+							}, 
+							{
+								"chapter" : "Red Deer", 
+								"start_date" : "2016-05-01", 
+								"province" : "Alberta"
+							}, 
+							{
+								"chapter" : "Whitehorse", 
+								"start_date" : "2015-11-01", 
+								"province" : "Yukon"
+							}, 
+							{
+								"chapter" : "Nanaimo", 
+								"start_date" : "2015-09-01", 
+								"province" : "British Columbia"
+							}, 
+							{
+								"chapter" : "Victoria", 
+								"start_date" : "2014-09-01",
+								"province" : "British Columbia"
+							}, 
+							{
+								"chapter" : "Lethbridge", 
+								"start_date" : "2015-09-01", 
+								"province" : "Alberta"
+							}, 
+							{
+								"chapter" : "Saskatoon", 
+								"start_date" : "2014-01-01", 
+								"province" : "Saskatchewan"
+							}, 
+							{
+								"chapter" : "Regina", 
+								"start_date" : "2014-03-01",
+								"province" : "Saskatchewan"
+							}, 
+							{
+								"chapter" : "Winnipeg", 
+								"start_date" : "2014-10-01",
+								"province" : "Manitoba"
+							},
+							{
+								"chapter" : "Sudbury", 
+								"start_date" : "2015-05-01", 
+								"province" : "Ontario"
+							}, 
+							{
+								"chapter" : "Waterloo", 
+								"start_date" : "2014-04-01", 
+								"province" : "Ontario"
+							}, 
+							{
+								"chapter" : "Windsor", 
+								"start_date" : "2015-11-01", 
+								"province" : "Ontario"
+							}, 
+							{
+								"chapter" : "Hamilton", 
+								"start_date" : "2013-09-01", 
+								"province" : "Ontario"
+							}, 
+							{
+								"chapter" : "Barrie", 
+								"start_date" : "2013-10-01", 
+								"province" : "Ontario"
+							}, 
+							{
+								"chapter" : "Durham", 
+								"start_date" : "2015-09-01", 
+								"province" : "Ontario"
+							}, 
+							{
+								"chapter" : "Kingston", 
+								"start_date" : "2016-09-01", 
+								"province" : "Ontario"
+							}, 
+							{
+								"chapter" : "Montreal", 
+								"start_date" : "2013-07-01", 
+								"province" : "Québec"
+							}, 
+							{
+								"chapter" : "Québec City", 
+								"start_date" : "2015-09-01", 
+								"province" : "Québec"
+							}, 
+							{
+								"chapter" : "Fredricton", 
+								"start_date" : "2014-09-01", 
+								"province" : "New Brunswick"
+							}, 
+							{
+								"chapter" : "Saint-John", 
+								"start_date" : "2014-11-01", 
+								"province" : "New Brunswick"
+							}, 
+							{
+								"chapter" : "Moncton", 
+								"start_date" : "2014-10-01", 
+								"province" : "New Brunswick"
+							}, 
+							{
+								"chapter" : "Charlottetown", 
+								"start_date" : "2016-09-01", 
+								"province" : "Prince Edward Island"
+							}, 
+							{
+								"chapter" : "Sydney", 
+								"start_date" : "2015-10-01", 
+								"province" : "Nova Scotia"
+							}, 
+							{
+								"chapter" : "St John's", 
+								"start_date" : "2014-02-01",
+								"province" : "Newfoundland"
+							}
+						]
+					}
+				]
+			}, 
+			{
+				"index" : "03", 
+				"title" : "Social Impact", 
+				"graphs" : [
+					{
+						"title" : "This year, we undertook an extensive research project, surveying close to 1,000 members of our community and conducting in-person focus groups with learners, parents and volunteers.", 
+						"chartType" : "radial",
+						"graphTitle" : "Division of Workshops to Date Across Canada",
+						"description" : "Since our impact on Canadians coast to coast is multi-faceted, our research required the use of both quantitative and qualitative methods to fully capture the impact that we have had on our community. Our social impact metrics are largely based on self-reported data.", 
+							"colors": ["#F8E71C", "#F5CB23", "#F5A623"],
+							"baseColor": "#F8F1C6",
+							"data" : [
+								{
+									"workshop" : "Ladies Learning Code", 
+									"percentage" : 68
+								}, 
+								{
+									"workshop" : "Girls Learning Code",
+									"percentage" : 19
+								}, 
+								{
+									"workshop" : "Kids Learning Code", 
+									"percentage" : 13
+								}
+							]
+					}, 
+					{
+						"title" : "How the Learners Feel After Participating in a Workshop", 
+						"chartType" : "bar", 
+						"graphTitle" : "Learner Feedback", 
+						"description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, perspiciatis laboriosam quisquam repudiandae repellendus iure saepe dolorem dolore cumque molestiae culpa deserunt. Nam quidem molestiae molestias, consequatur inventore, quaerat fugit.", 
+						"colors": ["#F8E71C", "#F5CB23", "#F5A623"], 
+						"data" : [
+							{
+								"question" : "one", 
+								"percentage" : 92.2
+							}, 
+							{
+								"question" : "two", 
+								"percentage" : 84.8
+							},
+							{
+								"question" : "three", 
+								"percentage" : 92.2
+							}, 
+							{
+								"question" : "four", 
+								"percentage" : 84.8
+							},
+							{
+								"question" : "five", 
+								"percentage" : 92.2
+							}, 
+							{
+								"question" : "six", 
+								"percentage" : 84.8
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

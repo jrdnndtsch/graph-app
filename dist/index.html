@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" href="http://localhost:3000/assets/toolkit/styles/toolkit.css">
+	<style>
+		svg {
+		  font-family: 'Work Sans', sans-serif;
+		}
+		.axis .domain {
+		  display: none;
+		}
+		.axis .tick line {
+		  display: none;
+		}
+
+		.axis .tick text, .grid .tick text {
+		  fill:#4A4A4A;
+		}
+
+		.grid line {
+		  stroke: black;
+		  stroke-opacity: 0.1;
+		  shape-rendering: crispEdges;
+		}
+
+		.grid path {
+		  stroke-width: 0;
+		}
+	</style>
+</head>
+<body>
+	<!-- webpack-dev-server --content-base dist -->
+	<div id="app"></div>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script src="https://d3js.org/d3.v4.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/datamaps/0.5.8/datamaps.all.js"></script>
+	<script src="bundle.js"></script>
+</body>
+</html>
