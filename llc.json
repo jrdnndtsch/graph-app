@@ -8,6 +8,9 @@
 				"title" : "A Note from the Team",
 				"graphs" : [
 					{
+						"chartType" : "pie"
+					},
+					{
 						"chartType" : "text", 
 						"title" : null,
 						"content" : "<p>Creating this report to share with you, our community, has been a process filled with nostalgia and pride as we reflect on how far Ladies Learning Code has come in just five years.</p><p>What started as the passion project of four young women in Toronto has evolved into a national not-for-profit organization at the forefront of the digital literacy movement in Canada.</p><p>While we are certainly proud of the progress that we have made in getting digital literacy and 21st century skills education onto the agendas of industry, government, and school boards, it is the individual stories of impact from our community that most effectively illustrate the significance of our work.</p><p>From the woman who completely reinvented her career through our programs, to the young girl who created a game for her visually impaired sister when there were none, to the teen who aced her AP CS class and is now on her way to university to major in computer science -- this report is a celebration of the lives that we have changed from coast to coast.</p><p>As we trace our progress and impact over the years, one thing is overwhelmingly clear: none of it would have been possible without the incredible support of our community. From our sponsors to our learners to the thousands of volunteers who teach in communities across Canada -- Ladies Learning Code is, and always will be, a community-driven organization.</p><p>Together we have come so far, but there is much work yet to be done. This next year will be another big one for Ladies Learning Code, and we will need our community more than ever.</p><p>Digital literacy for women and youth is rapidly gaining attention in the tech community, in education circles, and even on public agendas. Now is the time to capitalize on this incredible groundswell of support for our shared vision and make lasting change.</p>"
@@ -210,11 +213,11 @@
 						"data" : [
 							{
 								"question" : "one", 
-								"percentage" : 92.2
+								"percentage" : 60
 							}, 
 							{
 								"question" : "two", 
-								"percentage" : 84.8
+								"percentage" : 10
 							},
 							{
 								"question" : "three", 
@@ -222,7 +225,7 @@
 							}, 
 							{
 								"question" : "four", 
-								"percentage" : 84.8
+								"percentage" : 100
 							},
 							{
 								"question" : "five", 
@@ -235,6 +238,103 @@
 						]
 					}
 				]
+			}, 
+			{
+			  "index": "04", 
+			  "title": "Towards a streamlined cloud solution", 
+			  "description": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+			  "graphs": [
+			    {
+			      "title": "Operational change management", 
+			      "chartType": "stackedBar",
+			      "description": "Sales freemium direct mailing handshake A/B testing value proposition mass market. Growth hacking incubator market launch party. A/B testing buyer user experience responsive web design pitch niche market bandwidth holy grail interaction design. Market handshake infrastructure launch party validation.", 
+			      "graphTitle": "Bar Graph 1",
+			      "colors": ["#F8E71C", "#F5CB23", "#F5A623"], 
+			      "data": [
+			        {
+			          "Month": "Jan",
+			          "Instagram": 100,
+			          "Google Ads": 90,
+			          "Facebook": 120
+			        },
+			        {
+			          "Month": "Feb",
+			          "Instagram": 20,
+			          "Google Ads": 70,
+			          "Facebook": 130
+			        },
+			        {
+			          "Month": "March",
+			          "Instagram": 50,
+			          "Google Ads": 30,
+			          "Facebook": 100
+			        },
+			        {
+			          "Month": "April",
+			          "Instagram": 70,
+			          "Google Ads": 140,
+			          "Facebook": 160
+			        },
+			        {
+			          "Month": "May",
+			          "Instagram": 90,
+			          "Google Ads": 110,
+			          "Facebook": 60
+			        },
+			        {
+			          "Month": "June",
+			          "Instagram": 10,
+			          "Google Ads": 100,
+			          "Facebook": 40
+			        }
+			      ]
+			    },
+			    {
+			      "title": "Something", 
+			      "chartType": "stackedBar",
+			      "description": "Sales freemium direct mailing handshake A/B testing value proposition mass market. Growth hacking incubator market launch party. A/B testing buyer user experience responsive web design pitch niche market bandwidth holy grail interaction design. Market handshake infrastructure launch party validation.", 
+			      "graphTitle": "A new Graph",
+			      "colors": ["#F8E71C", "#F5CB23", "#F5A623"], 
+			      "data": [
+			        {
+			          "Month": "Jan",
+			          "Instagram": 100,
+			          "Google Ads": 20,
+			          "Facebook": 10
+			        },
+			        {
+			          "Month": "Feb",
+			          "Instagram": 20,
+			          "Google Ads": 30,
+			          "Facebook": 170
+			        },
+			        {
+			          "Month": "March",
+			          "Instagram": 70,
+			          "Google Ads": 30,
+			          "Facebook": 80
+			        },
+			        {
+			          "Month": "April",
+			          "Instagram": 70,
+			          "Google Ads": 40,
+			          "Facebook": 160
+			        },
+			        {
+			          "Month": "May",
+			          "Instagram": 90,
+			          "Google Ads": 140,
+			          "Facebook": 60
+			        },
+			        {
+			          "Month": "June",
+			          "Instagram": 10,
+			          "Google Ads": 90,
+			          "Facebook": 40
+			        }
+			      ]
+			    }
+			  ]
 			}
 		]
 	}

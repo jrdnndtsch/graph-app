@@ -6,6 +6,7 @@ import RadialGraph from './radialGraph.js';
 import BarGraph from './barGraph.js';
 import MapGraph from './mapGraph.js';
 import CanadaGraph from './canadaGraph.js';
+import PieChart from './pieChart.js';
 import { StickyContainer, Sticky } from 'react-sticky';
 
 class Block extends React.Component {
@@ -49,6 +50,8 @@ class Block extends React.Component {
 	   				return <CanadaGraph data={chart} key={i} />
 	   			} else if (chart.chartType == "bar") {
 	   				return <BarGraph data={chart} key={i} />
+	   			} else if (chart.chartType == "pie") {
+	   				return <PieChart key={i} />
 	   			}
 	   		})}
    		</div>
